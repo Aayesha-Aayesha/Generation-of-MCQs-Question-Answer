@@ -1,6 +1,6 @@
 **Sequence of Commands to run:**
 
-**Question Generation:**
+**Questions Generation:**
 
 !pip install -U transformers==3.0.0
 
