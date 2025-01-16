@@ -1,6 +1,7 @@
 **Sequence of Commands to run:**
 
 **Question Generation:**
+
 !pip install -U transformers==3.0.0
 
 !python -m nltk.downloader punkt
@@ -14,6 +15,7 @@ python Concept_wise_questions.py
 python Concept_wise_db_connection.py
 
 **Multiple-choice Answers Generation:**
+
 !pip install --quiet transformers==4.3.0
 
 !pip install pytorch-lightning
